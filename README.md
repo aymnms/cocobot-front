@@ -16,7 +16,8 @@
 
   <p align="center">
     Website to get an random joke from cocobot-back
-    <a href=""><strike>🔜 Cocobot</strike></a>
+    <br>
+    <a href=""><strike>🔜 Cocobot front</strike></a>
     ·
     <a href="https://github.com/aymnms/cocobot-back">Cocobot back (API)</a>
     ·
