@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aymnms/cocobot-front">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/cocobot.jpg" alt="Logo" width="105" height="120">
   </a>
 
 <h3 align="center">cocobot-front</h3>
