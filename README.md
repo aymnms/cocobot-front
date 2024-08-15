@@ -15,10 +15,11 @@
 <h3 align="center">cocobot-front</h3>
 
   <p align="center">
+    <a href="https://cocobot.aymnms.fr">cocobot.aymnms.fr (online)</a>
+    <br>
+    <br>
     Website to get an random joke from cocobot-back
     <br>
-    <a href="https://cocobot.aymnms.fr">Cocobot front</a>
-    ·
     <a href="https://github.com/aymnms/cocobot-back">Cocobot back (API)</a>
     ·
     <a href="https://github.com/aymnms/cocobot-front/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
